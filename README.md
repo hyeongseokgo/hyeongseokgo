@@ -1,4 +1,4 @@
-### Hi there 👋 아임 고형석
+### Hi there 👋 아임 형석고
 
 <!--
 **hyeongseokgo/hyeongseokgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
